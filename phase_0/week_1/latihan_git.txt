@@ -1,0 +1,13 @@
+cmd
+
+git
+
+git config --global user.name "John Doe
+git config --global user.email johndoe@example.com
+
+
+ssh-keygen
+
+
+untuk mac:
+cat ~/.ssh/id_rsa.pub
